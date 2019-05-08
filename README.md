@@ -1,3 +1,3 @@
 # mySpec
 
---- helloWorld
+- helloWorld
